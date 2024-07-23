@@ -7,4 +7,4 @@ Features:
 Tooling:
 * https://github.com/mliebelt/pgn-parser
 * https://www.npmjs.com/package/react-chessboard
-* github cite as a deployment?
+* github site as a deployment?
